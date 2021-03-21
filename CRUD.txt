@@ -1,0 +1,10 @@
+O que vamos Aprender?
+- Desenvolver uma pequena aplicação CRUD com os conceitos RESTful com Node.Js + Express.JS e MongoDB;
+
+Qual API que vamos desenvolver?
+- API de produto - usando metodos do http: GET/POST/PUT/DELETE
+
+id: int
+nome: String
+preco: Number
+descricao: String
